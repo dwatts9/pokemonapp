@@ -12,6 +12,7 @@
 		DAFD5FC11D514D1400BCF2A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAFD5FBF1D514D1400BCF2A4 /* Main.storyboard */; };
 		DAFD5FC31D514D1400BCF2A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAFD5FC21D514D1400BCF2A4 /* Assets.xcassets */; };
 		DAFD5FC61D514D1400BCF2A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAFD5FC41D514D1400BCF2A4 /* LaunchScreen.storyboard */; };
+		DAFD5FCE1D517A4600BCF2A4 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = DAFD5FCD1D517A4600BCF2A4 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DAFD5FC21D514D1400BCF2A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAFD5FC51D514D1400BCF2A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAFD5FC71D514D1400BCF2A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAFD5FCD1D517A4600BCF2A4 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				DAFD5FBD1D514D1400BCF2A4 /* ViewController.swift */,
 				DAFD5FBF1D514D1400BCF2A4 /* Main.storyboard */,
 				DAFD5FC21D514D1400BCF2A4 /* Assets.xcassets */,
+				DAFD5FCD1D517A4600BCF2A4 /* pokemon.csv */,
 				DAFD5FC41D514D1400BCF2A4 /* LaunchScreen.storyboard */,
 				DAFD5FC71D514D1400BCF2A4 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				DAFD5FC61D514D1400BCF2A4 /* LaunchScreen.storyboard in Resources */,
 				DAFD5FC31D514D1400BCF2A4 /* Assets.xcassets in Resources */,
+				DAFD5FCE1D517A4600BCF2A4 /* pokemon.csv in Resources */,
 				DAFD5FC11D514D1400BCF2A4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				DAFD5FCC1D514D1400BCF2A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
